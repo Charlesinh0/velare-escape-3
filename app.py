@@ -35,7 +35,7 @@ def enviar_correo():
     asunto = asunto if asunto else "Sin Asunto"
     mensaje_cliente = mensaje_cliente if mensaje_cliente else "Sin mensaje"
 
-    correo_docente ="cochoa19@icloud.com" 
+    correo_docente ="jdiaz5@cuc.edu.co" 
 
     try:
         # Conexión SSL nativa y directa de confianza hacia Gmail
